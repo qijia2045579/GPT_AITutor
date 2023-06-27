@@ -1,5 +1,7 @@
 # StoneEye_AIT
 
+*Read this in other languages: [English](README.md), [简体中文](README-CN.md).*
+
 Current Version: 
 
 Integrated: v1.2.1

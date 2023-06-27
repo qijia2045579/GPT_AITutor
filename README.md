@@ -1,6 +1,6 @@
 # StoneEye_AIT
 
-*阅读其他语言版本：[English](README.md)、[简体中文](README-CN.md)。*
+*阅读其他语言版本：[English](README-EN.md)、[简体中文](README.md)。*
 
 当前版本：
 

@@ -1,6 +1,6 @@
 # StoneEye_AIT
 
-*Read this in other languages: [English](README-EN.md), [简体中文](README-CN.md).*
+*Read this in other languages: [English](README-EN.md), [简体中文](README.md).*
 
 Current Version: 
 

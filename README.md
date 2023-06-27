@@ -1,4 +1,4 @@
-# StoneEye_AIT
+# GPT_AIT
 
 *阅读其他语言版本：[English](README-EN.md)、[简体中文](README.md)。*
 
@@ -43,5 +43,24 @@ https://github.com/qijia2045579/GPT_AITutor/assets/13291534/f5a81257-3f79-4c0e-8
 3. 从简单输入生成文章；现在您可以控制字数！
 4. 帮助了解文章中的关键词并查找相应的链接
 5. 快速OCR支持，识别图片中的文字!
+
+----
+## 使用说明
+
+1. 下载
+![1](https://github.com/qijia2045579/GPT_AITutor/assets/13291534/8df827d2-2aa8-4c20-a8c7-daffca938b24)
+
+2. 使用学石码
+![2](https://github.com/qijia2045579/GPT_AITutor/assets/13291534/19b65745-a705-4c7f-a45f-d844b2249d85)
+
+3. 迅捷模式
+![3](https://github.com/qijia2045579/GPT_AITutor/assets/13291534/daa7a5b0-fd46-4baf-951f-dfd6e72ce99e)
+
+4. 强化模式
+![4](https://github.com/qijia2045579/GPT_AITutor/assets/13291534/fe5e098a-d9aa-4ab9-bfee-85e97d631d4b)
+
+5. 其他
+![5](https://github.com/qijia2045579/GPT_AITutor/assets/13291534/66f45572-0dd8-403f-be47-08f36d424b1d)
+
 
 *联系方式：stoneeye2023@gmail.com*

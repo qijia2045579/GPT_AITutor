@@ -1,5 +1,7 @@
 # StoneEye_AIT
 
+*阅读其他语言版本：[English](README.md)、[简体中文](README-CN.md)。*
+
 当前版本：
 
 集成：v1.2.1

@@ -14,6 +14,15 @@ AIT is the abbreviation of "AI Tutor", it is a GPT-based article translation/opt
 
 https://www.stoneeye.net
 
+## Demo
+
+
+
+https://github.com/qijia2045579/GPT_AITutor/assets/13291534/f5a81257-3f79-4c0e-8b9d-f871a0d95e40
+
+
+
+
 ## What are the exciting functions
 
 ----
@@ -39,6 +48,11 @@ https://www.stoneeye.net
 3. Generate articles from simple inputs; you can control word count now!
 4. Help understand keywords in the article and find corresponding links
 5. Quick OCR supported
+
+
+----
+## User Guide
+1. 
 
 *We are in the second phase of development, expecting to end on: 2023-08-15*
 *We have already finished the first phase of development: 2023-05-31*
